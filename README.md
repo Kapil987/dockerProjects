@@ -70,6 +70,7 @@ Contributors names and contact info
 
 Inspiration, code snippets, etc.
 * [Begining with Docker](https://medium.com/@kmdkhadeer/docker-get-started-9aa7ee662cea)
+* [Using SSH keys inside docker container](https://stackoverflow.com/questions/18136389/using-ssh-keys-inside-docker-container)
 
 ## License
 
