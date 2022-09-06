@@ -71,7 +71,7 @@ Contributors names and contact info
 Inspiration, code snippets, etc.
 * [Begining with Docker](https://medium.com/@kmdkhadeer/docker-get-started-9aa7ee662cea)
 * [Using SSH keys inside docker container](https://stackoverflow.com/questions/18136389/using-ssh-keys-inside-docker-container)
-
+* [Docker multi-stage builds](https://towardsdatascience.com/using-multi-stage-builds-to-make-your-docker-image-almost-10x-smaller-239068cb6fb0)
 ## License
 
 Free Software, Hell Yeah!
