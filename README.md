@@ -1,5 +1,5 @@
 # Docker Real Time
-![alt text](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png)
+![alt text](https://cdn.dribbble.com/users/1008970/screenshots/6140230/blog_post_docker.gif)
 
 ## Description
 
