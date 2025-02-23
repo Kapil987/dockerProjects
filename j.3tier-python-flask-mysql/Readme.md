@@ -45,7 +45,9 @@ A 3‑tier Python Flask application with a MySQL backend that allows you to mana
 
    ```bash
    docker compose up --build
-  ```
+    ```
 3. **Visit your browser**
-<yourip>:<port>
-![My Image](flask-app-frontend.png)
+    ```
+    <yourip>:<port>
+    ```
+  ![My Image](flask-app-frontend.png)
