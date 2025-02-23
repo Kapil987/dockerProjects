@@ -40,3 +40,12 @@ A 3‑tier Python Flask application with a MySQL backend that allows you to mana
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+   ```
+2. **Run application**
+
+   ```bash
+   docker compose up --build
+  ```
+3. **Visit your browser**
+<yourip>:<port>
+![My Image](flask-app-frontend.png)
